@@ -1,6 +1,5 @@
 youtube_prevenir/
 Quizz-Generator/video_satisfaisante/
-Quizz-Generator/Date/outputs/
-Quizz-Generator/Invention/outputs/
 Quizz-Generator/musique/
-Quizz-Generator/personnalité/
+Quizz-Generator/**/outputs/
+
